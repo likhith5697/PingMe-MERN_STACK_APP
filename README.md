@@ -42,8 +42,6 @@ This project uses the following technologies:
 
 ---
 
-## 📦 Installation
-
 ### Prerequisites
 
 Make sure you have the following installed:
@@ -51,9 +49,10 @@ Make sure you have the following installed:
 - **Node.js** (v12 or higher) 🖥️
 - **npm** or **yarn** 💬
 
-### Steps to Get Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/pingMe.git
-   cd pingMe
+### 🏁 Usage
+Once the app is running, you can:
+Sign up: Create a new account using email and password. 🔑
+Log in: Secure login with JWT authentication. 🔒
+Join Chat Rooms: Create or join rooms to start chatting with others. 🏠
+Private Messaging: Send direct messages to friends or other users. 📨
+Real-Time Chat: Stay connected and chat in real-time with instant message updates. ⚡
